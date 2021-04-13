@@ -1,0 +1,37 @@
+
+h1{color:rgb(131, 25, 131);
+display: flex; text-align: center;}
+
+body{color: rgb(194, 2, 194);}
+body{font-family: cursive;}
+h2{color: darkslateblue;}
+body  {
+    background-image: url("hype.jpg");
+    background-color: #cccccc;
+  }
+      
+
+/* *{
+    border:solid;
+} */
+
+.gm{
+    background-color: rgb(250, 243, 207);
+}
+
+.header{
+    background-color: coral;
+display: flex;
+justify-content: space-between;
+margin-top: 50px;
+}
+.mid{
+    background-color: lavender;
+    border:solid;
+}
+
+.old_grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+}
